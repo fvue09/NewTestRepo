@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Inrule 1675961739139</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_536299_inrule_1675961739139</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-02-09 16:55:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a1ce40eb2f702110365eae5df699b6a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inrule 1675961739139</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="InRule" source="x_536299_inrule">ca6ec8ab2f702110365eae5df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InRule">ca6ec8ab2f702110365eae5df699b610</sys_scope>
+        <sys_update_name>sys_app_module_a1ce40eb2f702110365eae5df699b6a8</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-02-09 16:55:45</sys_updated_on>
+        <timeline_page/>
+        <title>Inrule 1675961739139</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="InRule">ca6ec8ab2f702110365eae5df699b610</application>
+        <file_path/>
+        <instance_id>6acf7695dba99bc0536ad5b0cf961948</instance_id>
+        <instance_name>dev56458</instance_name>
+        <name>sys_app_module_a1ce40eb2f702110365eae5df699b6a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Inrule 1675961739139</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_536299_inrule_1675961739139</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>aes.creator</sys_created_by><sys_created_on>2023-02-09 16:55:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a1ce40eb2f702110365eae5df699b6a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Inrule 1675961739139</sys_name><sys_overrides/><sys_package display_value="InRule" source="x_536299_inrule">ca6ec8ab2f702110365eae5df699b610</sys_package><sys_policy/><sys_scope display_value="InRule">ca6ec8ab2f702110365eae5df699b610</sys_scope><sys_update_name>sys_app_module_a1ce40eb2f702110365eae5df699b6a8</sys_update_name><sys_updated_by>aes.creator</sys_updated_by><sys_updated_on>2023-02-09 16:55:45</sys_updated_on><timeline_page/><title>Inrule 1675961739139</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>250130588</payload_hash>
+        <record_name>Inrule 1675961739139</record_name>
+        <reverted_from/>
+        <source>536ec8ab2f702110365eae5df699b6dc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-02-09 16:55:45</sys_created_on>
+        <sys_id>a5ce40eb2f702110365eae5df699b6b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186371abf730000001</sys_recorded_at>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-02-09 16:55:45</sys_updated_on>
+        <type>Module</type>
+        <update_guid>edce40ebf1702110f69eae35c7f025b6</update_guid>
+        <update_guid_history>edce40ebf1702110f69eae35c7f025b6:250130588</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Inrule 1675961739139">f40f84eb2f702110365eae5df699b682</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-02-09 16:56:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0da284c58ac447c88b4ab3b51ca7bcf1</sys_id>
+        <sys_metadata>a1ce40eb2f702110365eae5df699b6a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Inrule 1675961739139</sys_name>
+        <sys_package display_value="InRule" source="x_536299_inrule">ca6ec8ab2f702110365eae5df699b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="InRule">ca6ec8ab2f702110365eae5df699b610</sys_scope>
+        <sys_scope_delete display_value="">0664386c100f4a5a9d70624ecfa15c84</sys_scope_delete>
+        <sys_update_name>sys_app_module_a1ce40eb2f702110365eae5df699b6a8</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a1ce40eb2f702110365eae5df699b6a8">a5ce40eb2f702110365eae5df699b6b7</sys_update_version>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-02-09 16:56:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

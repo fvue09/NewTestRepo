@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b9fe04eb2f702110365eae5df699b6a7" label="NJ Tiered Rates Table" max_length="40" name="x_536299_inrule_nj_tiered_rates_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="EffectiveDate" max_length="40" name="effectivedate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="ExpirationDate" max_length="40" name="expirationdate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="GeographicArea" max_length="40" name="geographicarea" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ProductName" max_length="40" name="productname" type="string"/>
+        <element label="Rate" max_length="15" name="rate" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="RateTier" max_length="40" name="ratetier" type="string"/>
+    </element>
+</database>

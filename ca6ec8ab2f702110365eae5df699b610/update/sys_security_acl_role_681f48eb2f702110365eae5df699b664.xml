@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2023-02-09 16:57:02</sys_created_on>
+        <sys_id>681f48eb2f702110365eae5df699b664</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_536299_inrule_nj_tiered_rates_table.x_536299_inrule.admin</sys_name>
+        <sys_package display_value="InRule" source="x_536299_inrule">ca6ec8ab2f702110365eae5df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InRule">ca6ec8ab2f702110365eae5df699b610</sys_scope>
+        <sys_security_acl display_value="x_536299_inrule_nj_tiered_rates_table">541f08eb2f702110365eae5df699b69b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_681f48eb2f702110365eae5df699b664</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2023-02-09 16:57:02</sys_updated_on>
+        <sys_user_role display_value="x_536299_inrule.admin" name="x_536299_inrule.admin">1f6ec8ab2f702110365eae5df699b6dd</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
